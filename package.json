@@ -1,0 +1,16 @@
+{
+  "name": "library-management",
+  "version": "1.0.0",
+  "description": "A Node.js CRUD API for managing a library system with a MySQL database.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["library", "mysql", "nodejs", "express", "crud", "api"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.3.3"
+  }
+}
